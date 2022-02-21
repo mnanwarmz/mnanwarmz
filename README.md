@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web projects**
 
-- 👨‍💻 All of my projects are available at [anwarzaid.com](anwarzaid.com)
+- 👨‍💻 All of my projects are available at <a href="anwarzaid.com">Anwar Zaid</a>
 
 - 💬 Ask me about **Laravel, Vue, C++**
 
